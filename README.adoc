@@ -18,7 +18,7 @@ The local system needs to be prepared before running the ChatBot application.
 Make sure your system is enabled with git and Podman (v5.0).
 
 * https://git-scm.com/[Git]
-* https://podman.io/[Podman]
+* https://pod66 man.io/[Podman]
 ====
 ====
 *Clone repository*
